@@ -1,0 +1,1 @@
+A game of Hangman using GUI with Tkinter. You get 12 chances to guess the word before the Hanged man completes. If the figure is completed you lose, which makes sense since the 13th of the tarot cards is that of "death".
